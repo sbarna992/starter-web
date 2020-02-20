@@ -1,0 +1,13 @@
+     Participate in software programming initiatives to support innovation and enhancement, using HTML, CSS, JavaScript, Java, Python, SpringBoot, Hibernate, and C++.
+    Developing and directing software system validation and testing methods using Junit and Katalon
+    Develop and integrate custom developed software solutions to leverage automated deployment technologies
+    Develop, prototype and deploy solutions within Commercial Cloud Solutions leveraging Infrastructure platform services
+    Coordinate closely with team members, Product Owners and Scrum Masters to ensure User Story alignment and implementation to customer use cases
+    Analyze (though proof of concept, performance, and end-to-end testing) and effectively coordinate Infrastructure needs driven by developed software to meet customer mission needs
+    Support the Agile software development lifecycle following Program SAFe practices
+    Use industry leading DevOps tools like GitHub, Jenkins, Unix bash scripting
+    Document and Perform systems software development, including deployment of build artifacts across different environments leverage GitFlow constructs
+    Communicate key project data to team members and build team cohesion and effectiveness.
+    Leverage Atlassian tool suite like JIRA and Confluence to track activities
+    Apply and identify best practices and standard operating procedures
+    Create innovative solutions to meet the technical needs of customers.
