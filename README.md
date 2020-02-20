@@ -1,6 +1,7 @@
 #Starter Web Repo
 
-This is a smaple website
+This is a smaple website.  I am trying to learn git.
+Adding a line for rebasing example
 
 ##Introduction
 
