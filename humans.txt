@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sandeep -- sbarna992@gmail.com -- <twitter>
 
 # THANKS
 
