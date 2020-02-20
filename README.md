@@ -3,6 +3,9 @@
 This is a smaple website.  I am trying to learn git.
 Adding a line for rebasing example,
 more changes from myfeature branch 2.
+Updating for emeergentcy fish after stash
+crap
+
 
 ##Introduction
 
