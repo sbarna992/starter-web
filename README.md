@@ -16,6 +16,8 @@ This is the deployment section
 
 ##How to Contribute
 
+Please fork this repository
+
 ##Copyright
 
 2014 Git Training.
