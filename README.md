@@ -15,3 +15,7 @@ This is the purpose
 This is the deployment section
 
 ##How to Contribute
+
+##Copyright
+
+2014 Git Training.
